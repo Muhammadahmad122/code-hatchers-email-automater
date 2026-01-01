@@ -1,0 +1,11 @@
+google-generativeai
+imap-tools
+sqlalchemy
+beautifulsoup4
+requests
+python-dotenv
+colorama
+pandas
+plotly
+flask
+
